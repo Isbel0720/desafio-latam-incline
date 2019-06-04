@@ -1,0 +1,16 @@
+//Vendor
+@import
+'vendors/bootstrap-4.3.1/bootstrap';
+
+//Components 
+@import
+'components/logo',
+'components/nav';
+
+//Layout
+@import
+'layout/header';
+
+//Pages
+@import
+'pages/root';
